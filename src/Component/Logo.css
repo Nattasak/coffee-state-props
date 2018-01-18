@@ -1,0 +1,9 @@
+.brandimg {
+  position: absolute;
+  top: 223px;
+  left: 329px;
+  z-index: 2;
+}
+.brandimg img {
+  width: 200px;
+}

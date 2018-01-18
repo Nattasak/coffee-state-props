@@ -1,0 +1,21 @@
+.coffee {
+  position: relative;
+  display: flex;
+}
+.coffee-show {
+  margin-right: 40px;
+}
+.coffee-img {
+  width: 500px;
+}
+label {
+  display: block;
+  margin-bottom: 20px;
+}
+.white-ellipse {
+  position: absolute;
+  top: 73px;
+  left: 273px;
+  width: 299px;
+  z-index: 2;
+}
